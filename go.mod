@@ -1,4 +1,4 @@
-module github.com/drakz_z/tls-client
+module github.com/Drakz-z/tls-client
 
 go 1.22.0
 
